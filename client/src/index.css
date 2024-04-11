@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    font-family: 'Source Code Pro', sans-serif;
+    /* border: 1px solid black; */
+}
